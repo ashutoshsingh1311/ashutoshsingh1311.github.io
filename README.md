@@ -14,11 +14,11 @@ Explore my projects and achievements in this interactive GitHub Pages Portfolio!
 ## Running the Portfolio Locally 🌐
 
 1. Open Visual Studio Code.
-2. Navigate to the project folder adn select it.
-3. Right-click on the HTML file you want to run (e.g., `index.html`).
+2. Navigate to the project folder and select it or just use the shortcut `Ctrl+K+O` and select the folder.
+3. When the folder is open Right-click on the HTML file you want to run (e.g., `index.html`).
 4. Choose "Open with Live Server" from the context menu.
 
-Alternatively, open the HTML file and use the shortcut `Alt+K+O` to launch it with Live Server.
+Alternatively, open the HTML file and use the shortcut `Alt+L+O` to launch it with Live Server.
 
 Your default web browser will open, and you can experience the portfolio live on your local server.
 
