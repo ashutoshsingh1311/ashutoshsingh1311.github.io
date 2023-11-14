@@ -1,6 +1,6 @@
 # Welcome to My GitHub Pages Portfolio 🚀
 <p align="center">
- <img height=350px src="./fontpage.png" alt="Front Page">
+ <img height=350px src="./frontpage.png" alt="Front Page">
 </p>
 
 Explore my projects and achievements in this interactive GitHub Pages Portfolio! To view it locally on your laptop, follow these simple steps:
