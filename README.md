@@ -27,6 +27,10 @@ Alternatively, open the HTML file and use the shortcut `Alt+L+O` to launch it wi
 
 Your default web browser will open, and you can experience the portfolio live on your local server.
 
+## Deploying to GitHub Pages 🚀
+
+If you want to deploy this portfolio to GitHub Pages, follow the steps in this guide: [Deploying to GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+
 ## Portfolio Demo Link 💻
 [My Portfolio](https://ashutoshsingh1311.github.io/)
 
