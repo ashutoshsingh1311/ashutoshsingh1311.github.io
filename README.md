@@ -10,8 +10,6 @@
 
 </div>
 
-Explore my projects and achievements in this interactive GitHub Pages Portfolio! To view it locally on your laptop, follow these simple steps:
-
 ## Prerequisites 🛠️
 
 - **Visual Studio Code**: [Download and install](https://code.visualstudio.com/download) Visual Studio Code, a versatile and lightweight code editor.
