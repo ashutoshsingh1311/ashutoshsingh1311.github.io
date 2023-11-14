@@ -14,7 +14,7 @@
 
 - **Visual Studio Code**: [Download and install](https://code.visualstudio.com/download) Visual Studio Code, a versatile and lightweight code editor.
 
-- **Live Server Extension**: Install the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code. You can find it in the Extensions view (Ctrl+Shift+X).
+- **Live Server Extension**: Install the [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) for Visual Studio Code. You can find it in the Extensions view (`Ctrl+Shift+X`).
 
 ## Running the Portfolio Locally 🌐
 
