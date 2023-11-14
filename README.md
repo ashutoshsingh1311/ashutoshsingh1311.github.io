@@ -2,6 +2,13 @@
 <p align="center">
  <img height=350px src="./frontpage.png" alt="Front Page">
 </p>
+<div align="center">
+ 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML5-blue.svg)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![SCSS](https://img.shields.io/badge/SCSS-Styles-bf4080.svg)](https://sass-lang.com/documentation)
+
+</div>
 
 Explore my projects and achievements in this interactive GitHub Pages Portfolio! To view it locally on your laptop, follow these simple steps:
 
