@@ -33,7 +33,7 @@ If you want to deploy this portfolio to GitHub Pages, follow the steps in this g
 
 ## Portfolio Demo Link 💻
 [My Portfolio](https://ashutoshsingh1311.github.io/)
-Click on this link to checkout my portfolio.
+- Click on this link to checkout my portfolio.
 
 ## Author 👤
 
