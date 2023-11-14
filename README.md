@@ -34,11 +34,11 @@ If you want to deploy this portfolio to GitHub Pages, follow the steps in this g
 ## Portfolio Demo Link 💻
 [My Portfolio](https://ashutoshsingh1311.github.io/)
 
-## Author
+## Author 👤
 
 ashutoshsingh1311 - [Ashutosh Singh](https://github.com/ashutoshsingh1311)
 
-## Contact and Support
+## Contact and Support 📬
 
 For any issues or inquiries, feel free to contact us:
 
