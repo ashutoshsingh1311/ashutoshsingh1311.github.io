@@ -28,7 +28,7 @@ Alternatively, open the HTML file and use the shortcut `Alt+L+O` to launch it wi
 Your default web browser will open, and you can experience the portfolio live on your local server.
 
 ## Portfolio Demo Link 💻
-[My Portfolio]([https://code.visualstudio.com/download](https://ashutoshsingh1311.github.io/)) 
+[My Portfolio](https://ashutoshsingh1311.github.io/)) 
 
 ## Author
 
